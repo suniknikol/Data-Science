@@ -41,7 +41,7 @@ The project includes a comparison between multiple models, highlighting:
 
 ##  Full Report
 For a detailed explanation, analysis, and visualizations:  
--> [Project PDF](project-neural-network.pdf)
+-> [Project PDF](file:///C:/Users/D382696/Downloads/Project%20-%20Neural%20network%20(1).pdf)
 
 ##  Conclusion
 - Neural Networks provided the strongest results for this dataset  
